@@ -4,7 +4,7 @@
 
   <groupId>jorge.rabanos.ecp1.miw.upm.es</groupId>
   <artifactId>ECP1</artifactId>
-  <version>1.1.1</version>
+  <version>1.2.1</version>
   <packaging>jar</packaging>
 
   <name>ECP1</name>
